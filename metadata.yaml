@@ -1,0 +1,43 @@
+_repo: Oud-en-nieuw_38422
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Meijboom, Margaretha
+    birthdate: 1856
+    deathdate: 1927
+    gutenberg_agent_id: '33842'
+    url: http://www.gutenberg.org/2009/agents/33842
+covers:
+- cover_type: archival
+  image_path: 38422-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerlöf, Selma Ottiliana Lovisa
+    - Lagerlof, Selma
+    - Lagerloef, Selma
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
+description: ''
+gutenberg_issued: '2011-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38422'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into Dutch'
+tableOfContents: De Kerstroos -- In de Gerechtszaal -- Hoe Grootvader Grootmoeder
+  kreeg -- De Kerstvrede -- Het Grafschrift -- De beide Broeders -- Romeinsch Bloed
+  -- De oude Agneta -- De Ring van den Visscher -- Santa Catharina van Siëna -- De
+  zeven Doodzonden -- De Schatkist van de Keizerin.
+title: Oud en nieuw
+url: http://www.gutenberg.org/ebooks/38422
